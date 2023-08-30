@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiaPortal_C#", "TiaPortal_C#.csproj", "{6C0F8CCA-F7D9-4E00-AFB9-359E513C2411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0F8CCA-F7D9-4E00-AFB9-359E513C2411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0F8CCA-F7D9-4E00-AFB9-359E513C2411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0F8CCA-F7D9-4E00-AFB9-359E513C2411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0F8CCA-F7D9-4E00-AFB9-359E513C2411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C48F52-02DB-4D6A-A156-49C05E2CBC1B}
+	EndGlobalSection
+EndGlobal
